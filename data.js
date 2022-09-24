@@ -1,10 +1,10 @@
 export const Data = [{
-    name: "Amogh",
-    username: "akak",
-    branch: "ai",
-    year: "3rd",
-}, 
-{
+        name: "Amogh",
+        username: "akak",
+        branch: "ai",
+        year: "3rd",
+    },
+    {
         name: "Nagaraj Pandith",
         username: "nagarajpandith",
         branch: "CSE",
@@ -16,19 +16,19 @@ export const Data = [{
         branch: "CSE",
         year: "3rd",
     },
-{
+    {
         name: "Deeksha Gatty",
         username: "DeekshaGatty22",
         branch: "ISE",
         year: "3rd",
     },
-     {
+    {
         name: "Prathik K Acharya",
         username: "nagarajpandith",
         branch: "CSE",
         year: "3rd",
     },
-{
+    {
         name: "Shreenidhi",
         username: "Solar system",
         branch: "CSE",
@@ -39,26 +39,26 @@ export const Data = [{
         username: "PradeepRaoK",
         branch: "CSE",
         year: "3rd",
-},
-{
+    },
+    {
         name: "Ardra Madhu",
         username: "ardramadhoo",
         branch: "CSE",
         year: "3rd",
     },
-  {
+    {
         name: "suvith",
         username: "Htivus",
         branch: "CSE",
         year: "3rd",
     },
     {
-        name:"Emmanuel Joshy",
-        username:"Eman-69",
-        branch:"CSE",
-        year:"3rd",
+        name: "Emmanuel Joshy",
+        username: "Eman-69",
+        branch: "CSE",
+        year: "3rd",
     },
-   {
+    {
         name: "Ananth Krishna",
         username: "ANANTHA1234842",
         branch: "ISE",
@@ -88,7 +88,7 @@ export const Data = [{
         branch: "CSE",
         year: "3rd",
     },
-   {
+    {
         name: "Anirudha kamath",
         username: "anirudha",
         branch: "ISE",
@@ -124,10 +124,10 @@ export const Data = [{
         branch: "CSE",
         year: "3rd",
     },
-        {
+    {
         name: "Dhanush poojary",
         username: "Dhanushpoojary",
-        },
+    },
     {
         name: "Shreya",
         username: "shreya",
@@ -140,24 +140,30 @@ export const Data = [{
         branch: "CSE",
         year: "3rd",
     },
-        {
+    {
         name: "Palguni SAMAGA",
         username: "PAL-SAM",
         branch: "CSE",
         year: "3rd",
     },
     {
-            name: "Meghana Shenoy",
+        name: "Meghana Shenoy",
         username: "meghana-shenoy",
-        },
-        {
-                name: "Sushma",
+    },
+    {
+        name: "Sushma",
         username: "SUSHMA",
         branch: "ISE",
         year: "3rd"
-        },
-            {
+    },
+    {
         name: "avavavavavavavavavavava",
         username: "ACAVaVAVAVAAVAV",
-        },
+    },
+    {
+        name: "Geshal Mendonca",
+        username: "geshal",
+        branch: "CSE",
+        year: "3rd",
+    },
 ];
