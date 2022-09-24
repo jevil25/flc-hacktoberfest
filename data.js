@@ -5,5 +5,11 @@ export const Data =[
         branch: "CSE",
         year: "3rd",
     },
+    {
+        name: "Vaishnavi",
+        username: "Vaishnavi",
+        branch: "CSE",
+        year: "3rd",
+    },
     
 ];
