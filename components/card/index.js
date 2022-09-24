@@ -9,7 +9,7 @@ export default function CardComp() {
     <div className='pt-20'>
     <h3 className="text-center bg-black gradient pt-10 pb-5 text-3xl lg:text-5xl font-bold">MEMBERS</h3>
     </div>
-    <div className="flex flex-wrap w-screen min-h-[900px] align-center justify-center pb-10 text-white">
+    <div className="flex flex-wrap  min-h-[900px] align-center justify-center pb-10 text-white">
         {Data.map((person, index) => (
             <div key={index} className="w-[250px] min-h-[350px] lg:min-w-[300px] lg:min-h-[400px] m-5 rounded-xl hover:rotate-2 transition duration-300 bg-white bg-opacity-10 backdrop-filter backdrop-blur-lg fade-in">
                 <div class="w-full h-48 lg:h-72 relative">
