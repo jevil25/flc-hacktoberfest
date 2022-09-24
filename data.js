@@ -6,6 +6,18 @@ export const Data =[
         year: "3rd",
     },
     {
+        name: "Anirudha kamath",
+        username: "anirudha",
+        branch: "ISE",
+        year: "3rd",
+    },
+    {
+        name: "abhishek",
+        username: "abhishek",
+        branch: "EC",
+        year: "3rd",
+    },
+    {
         name: "Sangeetha Nayak",
         username: "sangeethanayak",
         branch: "ECE",
