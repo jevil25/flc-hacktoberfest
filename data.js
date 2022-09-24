@@ -10,7 +10,7 @@ export const Data = [{
         branch: "CSE",
         year: "3rd",
     },
-    {
+     {
         name: "Prathik K Acharya",
         username: "nagarajpandith",
         branch: "CSE",
@@ -53,7 +53,7 @@ export const Data = [{
         year: "3rd",
     },
     {
-        name: "parth1",
+        name: "Priyanshu Parth",
         username: "parth1",
         branch: "CSE",
         year: "3rd",
