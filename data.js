@@ -11,7 +11,6 @@ export const Data = [{
         year: "3rd",
     },
     {
-
         name: "Pradeep Rao K",
         username: "PradeepRaoK",
         branch: "CSE",
