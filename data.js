@@ -7,7 +7,7 @@ export const Data =[
     },
     {
         name: "Aaron Jevil Nazazreth",
-        username: "aaronjng",
+        username: "aaronjn",
         branch: "CSE",
         year: "3rd",
     }
