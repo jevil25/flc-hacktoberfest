@@ -1,3 +1,4 @@
+
 export const Data = [{
     name: "Amogh",
     username: "akak",
@@ -140,4 +141,8 @@ export const Data = [{
         branch: "CSE",
         year: "3rd",
     },
+    {
+            name: "Meghana Shenoy",
+        username: "meghana-shenoy",
+        },
 ];
