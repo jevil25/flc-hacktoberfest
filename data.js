@@ -106,6 +106,10 @@ export const Data = [{
         branch: "CSE",
         year: "3rd",
     },
+        {
+        name: "Dhanush poojary",
+        username: "Dhanushpoojary",
+        },
     {
         name: "Shreya",
         username: "shreya",
