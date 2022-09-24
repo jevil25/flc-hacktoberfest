@@ -5,6 +5,12 @@ export const Data = [{
         year: "3rd",
     },
     {
+        name: "parth1",
+        username: "parth1",
+        branch: "CSE",
+        year: "3rd",
+    },
+    {
         name: "sanith shetty",
         username: "sanithshetty41",
         branch: "Ise",
