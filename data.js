@@ -11,5 +11,11 @@ export const Data =[
         branch: "CSE",
         year: "3rd",
     }
+    {
+        name: "Luffy",
+        username: "kip",
+        branch: "CSE",
+        year: "3rd",
+    }
     
 ];
