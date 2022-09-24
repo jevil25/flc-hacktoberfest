@@ -6,8 +6,8 @@ export const Data =[
         year: "3rd",
     },
     {
-        name: "parth1",
-        username: "parth1",
+        name: "Priyanshu Parth",
+        username: "Priyanshuparth",
         branch: "CSE",
         year: "3rd",
     },
