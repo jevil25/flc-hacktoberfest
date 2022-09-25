@@ -19,7 +19,7 @@ export const Data = [
     },
     {
         name: "Aaron Jevil Nazazreth",
-        username: "aaronjn",
+        username: "jevil25",
         branch: "CSE",
         year: "3rd",
     },
